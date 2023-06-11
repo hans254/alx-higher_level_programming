@@ -3,7 +3,7 @@
 def no_c(my_string):
     string = ""
     for a in my_string:
-        if i is not 'c' and i is not 'C':
-            string += i
+        if a is not 'c' and a is not 'C':
+            string += a
 
         return string
