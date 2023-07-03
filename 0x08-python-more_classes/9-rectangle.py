@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-created by hansel.
+ansels.
 """
 
 
@@ -11,7 +11,7 @@ class Rectangle:
     class attribute print_symbol which is used as symbol for printing,
     static method bigger_or_equal that returns biggest rectangle,
     and class method square that returns a new Rectangle.
-    """    
+    """
     number_of_instances = 0
     print_symbol = "#"
 
