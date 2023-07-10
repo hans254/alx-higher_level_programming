@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#Author: Hansel Fidel Ndemange
 """
 ================================
 module with method is_same_class
