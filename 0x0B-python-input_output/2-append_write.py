@@ -17,4 +17,3 @@ def append_write(filename="", text=""):
             num_of_chars += 1
             f.write(b)
     return num_of_chars
-
