@@ -9,4 +9,3 @@ if __name__ == "__main__":
         print("\t- type: {}".format(type(dt)))
         print("\t- content: {}".format(dt))
         print("\t- utf8 content: {}".format(dt.decode("utf-8")))
-
