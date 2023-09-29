@@ -13,4 +13,3 @@ if __name__ == "__main__":
 
     w = requests.post(url, data=email)
     print(w.text)
-

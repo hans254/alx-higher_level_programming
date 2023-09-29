@@ -16,4 +16,3 @@ if __name__ == "__main__":
     with req.urlopen(request) as response:
         page = response.read()
         print(page.decode("utf-8"))
-

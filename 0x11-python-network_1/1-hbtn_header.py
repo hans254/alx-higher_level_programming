@@ -10,4 +10,3 @@ if __name__ == "__main__":
 
     with req.urlopen(url) as response:
         print(dict(response.headers).get("X-Request-Id"))
-
